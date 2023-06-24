@@ -1,0 +1,65 @@
+*{
+    margin: 8px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#nav_links{
+    display:flex;
+    gap:10px;
+    align-items:center;
+    list-style:none;
+}
+nav a{
+    text-decoration: none;
+    font-size:large;
+    color: green;
+    padding-left: 180px;
+}
+
+#cont{
+    background-color: rgb(159, 246, 104);
+    border-radius: 5px;
+    padding: 10px 25px;
+    margin-left: 100px;
+}
+h1{
+    color: green;
+    font-family:roboto;
+    text-align: center;
+}
+
+section{
+    margin: 80px 80px;
+}
+.text{
+    color: blue;
+    width: 800px;
+    text-align: justify;
+    padding-left: 500px;
+}
+
+h2{
+    color: blue;
+    font-family:roboto;
+}
+
+p{
+    color: rgb(17, 54, 142);
+}
+.dis{
+    text-align: center;
+    background-color: rgb(0, 132, 255);
+}
+    
+#tab table{
+    border: 3px double;
+    color: blue;
+}
+
+
+footer{
+    color: green;
+    font-family: roboto;
+    font-weight: bolder;
+    font-size: large;
+}
